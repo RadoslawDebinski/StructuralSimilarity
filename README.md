@@ -1,4 +1,4 @@
-# StructuralSimilaruty
+# StructuralSimilarity
 
 The project's goal was to detect differences between two images, one original and one edited. The requirement was to avoid the usage of loops, comparison of images pixel by pixel, and hardcoding of constants.
 
